@@ -1,1 +1,1 @@
-# Grokking_Algorithms_summary
+# Грокаем алгоритмы. Адитья Бхаргава
