@@ -44,15 +44,20 @@ def search(name):
     search_queue = deque()       #создание новой очереди
     search_queue += graph[name]  #все соседи добавляются в очередь поиска
     searched = []                #этот массив используется для отслеживания уже проверенных людей
-    while search_queue:
-        person = search_queue.popleft()
-        if not person is searched:
-            if person_is_seller(person):
-                print(person + " is a mango seller!")
+    while search_queue:          #пока очередь не пуста...
+        person = search_queue.popleft()  #из очереди извлекается первый человек
+        if not person is searched:       #человек проверяется только в том случае, если он не проверялся ранее
+            if person_is_seller(person): #проверяем, является ли этот человек продавцом манго
+                print(person + " is a mango seller!") #это продавец манго
                 return True
             else:
-                search_queue += graph[person]
-                searched.append(person)
-   return False
+                search_queue += graph[person]  #нет, не является. Все друзья этого человека добавляются в очередь поиска
+                searched.append(person)        #человек помечается как уже проверенный
+    return False
 ```
+## Время выполнения
+$O$ - время выполнения
+$V$ - кол-во вершин
+$E$ - кол-во ребер
+$O(V+E)$
 
