@@ -3,7 +3,7 @@
 
 _Алгоритмы - это всего лишь пошаговые инструкции решения задач, и большинство таких зада уже были кем-то решены, протестированы и проверены. Можно, конечно, погрузиться в глубокую философию гниального Кнута, изучить многостраничные фолианты с доказательствами и обоснованиями, но хотите ли вы тратить на это свое время? Откройте великолепно иллюстрированную книгу, и ы сразу поймете, что алгоритмы - это просто. А грокать алгоритмы - это веселое и увлекательное занятие._
 
-## [Глава 1. Знакомство с алгоритмами](https://github.com/antonyaanton/Grokking_Algorithms_summary/blob/main/summary/Chapter%201.md)
+## [Глава 1. Знакомство с алгоритмами]([https://github.com/antonyaanton/Grokking_Algorithms_summary/blob/main/summary/Chapter%201.md](https://github.com/antonyaanton/Grokking_Algorithms_summary/blob/main/summary/Chapter%201.%20Algorithms.%20Binary%20Search.md))
 _Эффективность алгоритмов. Бинарный поиск. "О-большое"_
 
 ## [Глава 2. Сортировка выбором](https://github.com/antonyaanton/Grokking_Algorithms_summary/blob/main/summary/Chapter%202.md)
