@@ -6,5 +6,5 @@ _Алгоритмы - это всего лишь пошаговые инстру
 ## [Глава 1. Знакомство с алгоритмами](https://github.com/antonyaanton/Grokking_Algorithms_summary/blob/main/summary/Chapter%201.%20Algorithms.%20Binary%20Search.md)
 _Эффективность алгоритмов. Бинарный поиск. "О-большое"_
 
-## [Глава 2. Сортировка выбором](https://github.com/antonyaanton/Grokking_Algorithms_summary/blob/main/summary/Chapter%202.md)
+## [Глава 2. Сортировка выбором](https://github.com/antonyaanton/Grokking_Algorithms_summary/blob/main/summary/Chapter%202.%20Massives.%20Lists.%20Select.%20Sort.md)
 _Как работает память. Массивы и связанные списки. Сортировка выбором_
